@@ -1,0 +1,63 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.carosel{
+    padding-top: 20px;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.auction{
+    padding-top: 20px;
+}
+.text2{
+    padding-top: 10px;
+    padding-left: 30px;
+    color: orange;
+    padding-bottom: -20px;
+}
+.text5{
+    padding-top: 10px;
+    padding-left: 30px;
+    color: orange;
+    /* padding-bottom: -20px; */
+}
+.car{
+    padding-top: 20px;
+
+}
+.car2{
+    padding-top: 20px;
+    background-color: aquamarine;
+}
+.parallax {
+    background-image: url("./images/dhoni.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.car3{
+    padding-top: 5px;
+}
+.parallax2 {
+    background-image: url("./images/IPL-T20-Official-App.png");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: rgb(47, 204, 204);
+}
+
